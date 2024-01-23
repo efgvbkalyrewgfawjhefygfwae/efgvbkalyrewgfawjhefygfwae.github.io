@@ -2,6 +2,7 @@
 ![alt text](https://tse4.mm.bing.net/th?id=OIP.pgu7rWGS4Wyng51sjiKm4wHaFj&pid=Api&P=0&h=220)
 # Saint Anne Chapel Magarao 
 ### *Saint Anne Parish Chapel Magarao is located in San Juan Magarao Cam. Sur.*
+
 | `Sun` | `Mon` | `Tue` | `Wed` | `Thu` | `Fri` | `Sat` |
 | --- | --- | --- | --- | --- | --- | --- |
 |   6:00 AM - 7:00 AM   |   6:30 AM - 7:30 AM   |   6:30 AM - 7:30 AM   |   6:30 AM - 7:30 AM   |   6:30 AM - 7:30 AM   |   6:30 AM - 7:30 AM   |   6:30 AM - 7:30 AM   |
