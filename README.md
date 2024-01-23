@@ -5,8 +5,8 @@
 
 | `Sun` | `Mon` | `Tue` | `Wed` | `Thu` | `Fri` | `Sat` |
 | --- | --- | --- | --- | --- | --- | --- |
-|   6:00 AM - 7:00 AM   |   6:30 AM - 7:30 AM   |   6:30 AM - 7:30 AM   |   6:30 AM - 7:30 AM   |   6:30 AM - 7:30 AM   |   6:30 AM - 7:30 AM   |   6:30 AM - 7:30 AM   |
-| 8:00 AM - 9:00 AM | 6:00 PM - 7:00 PM | 6:00 PM - 7:00 PM | 6:00 PM - 7:00 PM | 6:00 PM - 7:00 PM | 6:00 PM - 7:00 PM | 6:00 PM - 7:00 PM |
+| 6:00 AM - 7:00 AM | 6:30 AM - 7:30 AM | 6:30 AM - 7:30 AM | 6:30 AM - 7:30 AM | 6:30 AM - 7:30 AM | 6:30 AM - 7:30 AM | 6:30 AM - 7:30 AM | 8:00 AM - 9:00 AM | 6:00 PM - 7:00 PM | 6:00 PM - 7:00 PM | 6:00 PM - 7:00 PM | 6:00 PM - 7:00 PM | 6:00 PM - 7:00 PM | 6:00 PM - 7:00 PM |
+
 # Parish Info CONTACT DETAILS
 ### • Address - Magarao, 4403 Camarines Sur
 ### • Contact Number - no record available
