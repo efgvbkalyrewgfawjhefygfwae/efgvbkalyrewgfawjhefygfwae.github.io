@@ -2,10 +2,10 @@
 ![alt text](https://tse4.mm.bing.net/th?id=OIP.pgu7rWGS4Wyng51sjiKm4wHaFj&pid=Api&P=0&h=220)
 # Saint Anne Chapel Magarao 
 ### *Saint Anne Parish Chapel Magarao is located in San Juan Magarao Cam. Sur.*
-| Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
-| --------------- | --------------- | ----------------| --------------- | --------------- | --------------- | --------------- |
-| 6:30am - 7:30am | 6:30am - 7:30am | 6:30am - 7:30am | 6:30am - 7:30am | 6:30am - 7:30am | 6:30am - 7:30am | 6:30am - 7:30am |
-| 6:30pm - 7:30pm | 6:30pm - 7:30pm | 6:30pm - 7:30pm | 6:30pm - 7:30pm | 6:30pm - 7:30pm | 6:30pm - 7:30pm | 6:30pm - 7:30pm |
+| `Sun` | `Mon` | `Tue` | `Wed` | `Thu` | `Fri` | `Sat` |
+| --- | --- | --- | --- | --- | --- | --- |
+|   6:00 AM - 7:00 AM   |   6:30 AM - 7:30 AM   |   6:30 AM - 7:30 AM   |   6:30 AM - 7:30 AM   |   6:30 AM - 7:30 AM   |   6:30 AM - 7:30 AM   |   6:30 AM - 7:30 AM   |
+| 8:00 AM - 9:00 AM | 6:00 PM - 7:00 PM | 6:00 PM - 7:00 PM | 6:00 PM - 7:00 PM | 6:00 PM - 7:00 PM | 6:00 PM - 7:00 PM | 6:00 PM - 7:00 PM |
 # Parish Info CONTACT DETAILS
 ### • Address - Magarao, 4403 Camarines Sur
 ### • Contact Number - no record available
